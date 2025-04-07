@@ -1,2 +1,2 @@
-# Tomato-harvesting-Robot-Using-Deep-Learning
-Final year project focused on tomato ripeness detection using deep learning. Integrated with a robot using an ESP32-CAM to capture tomato images for real-time ripeness classification
+Tomato-harvesting-Robot-Using-Deep-Learning
+This final year project focuses on detecting the ripeness of tomatoes using deep learning techniques. A custom-trained Convolutional Neural Network (CNN) model classifies tomatoes into different ripeness stages based on real-time image input. The system is integrated with a robot equipped with an ESP32-CAM module, which captures live images of tomatoes and sends them for ripeness evaluation. This project aims to assist in automating agricultural processes by providing an efficient and accurate method for tomato sorting based on ripeness.
